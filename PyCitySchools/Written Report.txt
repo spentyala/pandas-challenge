@@ -1,0 +1,5 @@
+PyCity School Analysis: Written Report
+
+For this Analysis, a combination of both District and Charter schools totaling 15 unique schools were used as the sample size. Among the two school types, it appears that District schools are spending more per student compared to Charter Schools. However, overall student performance from Charter Schools is better compared to District Schools.
+
+Based on spending pattern per student, overall passing percentage (90.36%) is drastically higher in schools that spent lowest of the four spending ranges (<585, $585-630, $630-645, $645-680). Additionally, a Medium sized school (1000-2000) has a higher overall pass percentage of 90.62% compared to Small (<1000 students) and Large (2000-5000) schools.
